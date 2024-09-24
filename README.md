@@ -1,10 +1,13 @@
 Struktur direktori
+
+```
 Kategori/
  └─ JudulSoal/
     ├─ IsiSoal/
     ├─ WriteUp/
     │   └─ README.md
-    └─ README.md    
+    └─ README.md
+```
 
 Keterangan:
 IsiSoal/ : berisi hasil extract dari file dari dreamhack
