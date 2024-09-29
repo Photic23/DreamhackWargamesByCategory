@@ -1,0 +1,1 @@
+I implemented my prototype STREAM cipher, and I believe it's quite safe. Can you leak my flag from it?
