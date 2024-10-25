@@ -1,0 +1,2 @@
+1. Kita bisa mendapatkan iv menggunakan cara pada sumber ini: https://crypto.stackexchange.com/questions/88494/finding-the-iv-of-aes-cbc-ctf
+2. Karena iv dan key sama, maka kita bisa langsung decrypt flagnya
